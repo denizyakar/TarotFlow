@@ -21,9 +21,8 @@ To successfully run the project, please follow these steps:
 
 ## 3️⃣ Gemini AI API Key
 	•	To test the AI-powered tarot reading feature, you need to obtain a Gemini API key.
-	•	You can get your API key from this link: [Google AI Studio](https://aistudio.google.com/apikey)
 	•	Add the API key to the appropriate section in the project.
-
+📌	You can get your API key from this link: [Google AI Studio](https://aistudio.google.com/apikey)
 ⸻
 
 ## 🎨 App Features
@@ -50,7 +49,7 @@ To successfully run the project, please follow these steps:
 ## ⏳ Reading Limit & Countdown Feature
 	•	Each user has a limited number of readings per day.
 	•	A countdown timer displays when the next reading will be available.
-  •	User can change it within XCode or Firebase Realtime Database.
+  	•	User can change it within XCode or Firebase Realtime Database.
 
 
 ## 🎭 Lottie Animations
