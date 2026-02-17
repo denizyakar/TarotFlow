@@ -1,6 +1,10 @@
 # TarotFlow
 
 TarotFlow is a SwiftUI-based tarot reading application. Users can select their birthdate and zodiac sign for a personalized UI, draw single or triple tarot cards, and receive AI-powered readings using Gemini AI integration. The app utilizes Firebase for authentication and real-time data management.
+| Login Screen | HomePage | CardSelection |
+| :---: | :---: | :---: |
+| ![SS1](ss1.png) | ![SS2](ss2.png) | ![SS3](ss3.png) |
+
 
 ## 📌 Important Requirements
 
